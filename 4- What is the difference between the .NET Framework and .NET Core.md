@@ -14,8 +14,7 @@ The .NET Framework and .NET Core are both platforms developed by Microsoft for b
 
 **3->Compatibility:**
     
-    Deeply integrated with Windows APIs and services, such as Windows Forms, WPF, 
-    and ASP.NET Web Forms.
+    Deeply integrated with Windows APIs and services, such as Windows Forms, WPF, and ASP.NET Web Forms.
 
 ## .NET Core:
 
@@ -65,7 +64,8 @@ The .NET Framework and .NET Core are both platforms developed by Microsoft for b
 
 **1->Performance:**
   
-    Suitable for traditional enterprise applications but less optimized for performance and scalability in modern, high-load scenarios.
+    Suitable for traditional enterprise applications but less optimized for performance and scalability 
+    in modern, high-load scenarios.
 
 **2->Scalability:**
   
