@@ -63,17 +63,28 @@ The Common Language Infrastructure (CLI) is a specification developed by Microso
     ensuring that different implementations adhere to a common set of rules and can interoperate.
 
     
-Implementations:
+**2->Implementations:**
 
-The primary implementation of the CLI is the .NET Framework by Microsoft. Other notable implementations include .NET Core (now part of the unified .NET platform) and Mono, an open-source implementation of the CLI that allows .NET applications to run on non-Windows platforms.
-Common Use Cases
-Cross-Language Development:
+    The primary implementation of the CLI is the .NET Framework by Microsoft. Other notable implementations include .NET Core 
+    (now part of the unified .NET platform) and Mono, an open-source implementation of the CLI that allows .NET 
+    applications to run on non-Windows platforms.
 
-Developers can write different parts of an application in different languages best suited to each task. For example, a performance-critical component might be written in C#, while a user interface could be developed using VB.NET.
-Cross-Platform Applications:
+    
+# Common Use Cases
 
-By targeting the CLI, developers can create applications that run on multiple platforms without modification, provided a suitable runtime environment is available.
-Enterprise Applications:
+**1->Cross-Language Development:**
 
-The CLI is often used in enterprise environments where applications must integrate with a wide variety of systems and languages, ensuring that they can work together seamlessly.
+    Developers can write different parts of an application in different languages best suited to each task. 
+    For example, a performance-critical component might be written in C#, while a user interface could be developed using VB.NET.
+
+**2->Cross-Platform Applications:**
+
+    By targeting the CLI, developers can create applications that run on multiple platforms without modification, 
+    provided a suitable runtime environment is available.
+    
+**3->Enterprise Applications:**
+
+    The CLI is often used in enterprise environments where applications must integrate with a wide variety of systems and languages, 
+    ensuring that they can work together seamlessly.
+    
 In summary, the Common Language Infrastructure is a powerful and versatile framework that underpins the .NET ecosystem, enabling language interoperability, platform independence, and robust application development.
