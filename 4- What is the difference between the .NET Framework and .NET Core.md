@@ -76,6 +76,7 @@ The .NET Framework and .NET Core are both platforms developed by Microsoft for b
 **1-> Performance:** 
   
     High-performance, scalable, and lightweight, designed for modern web and cloud applications.
+    
 **2-> Scalability:**
   
     Suitable for containerized and microservices-based architectures, supporting deployment on various cloud platforms.
