@@ -84,7 +84,7 @@ The Common Language Infrastructure (CLI) is a specification developed by Microso
     
 **3->Enterprise Applications:**
 
-    The CLI is often used in enterprise environments where applications must integrate with a wide variety of systems and languages, 
-    ensuring that they can work together seamlessly.
+    The CLI is often used in enterprise environments where applications must integrate with a wide variety of systems and 
+    languages, ensuring that they can work together seamlessly.
     
 In summary, the Common Language Infrastructure is a powerful and versatile framework that underpins the .NET ecosystem, enabling language interoperability, platform independence, and robust application development.
